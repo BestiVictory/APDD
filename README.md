@@ -22,7 +22,7 @@ If you find our code/models useful, please consider citing our paper.
 @InProceedings{
     author    = {Xin Jin, Qianqian Qiao, Yi Lu, Huaye Wang, Shan Gao, Heng Huang, Guangdong Li},
     title     = {Paintings and Drawings Aesthetics Assessment with Rich Attributes for Various Artistic Categories},
-    booktitle = { International Joint Conferences on Artificial Intelligence (IJCAI)},
+    booktitle = {International Joint Conferences on Artificial Intelligence (IJCAI)},
     year      = {2024},
 }
 ```
