@@ -14,7 +14,7 @@ The construction of a multi-attribute, multi-category dataset in the field of pa
 
 ## Accessing the Dataset
 
-If you want to further understand and use this dataset, please apply by Request access.doc and send it to jinxinbesti@foxmail.com. We will tell you how to have an access to this dataset by email according to your application.
+If you want to further understand and use this dataset, please apply by `Request access.doc` and send it to jinxinbesti@foxmail.com. We will tell you how to have an access to this dataset by email according to your application.
 
 ### Citation
 If you find our code/models useful, please consider citing our paper.
