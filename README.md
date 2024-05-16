@@ -1,6 +1,6 @@
 # APDD: Aesthetics of Paintings and Drawings Dataset
 
-This is an open-source aesthetics of paintings and drawings dataset called APDD, which was completed by the Victory team of Besti.
+This is an open-source aesthetics of paintings and drawings dataset called APDD, which was completed by the victory-lab.
 
 ## Introduction
 
@@ -14,11 +14,14 @@ The construction of a multi-attribute, multi-category dataset in the field of pa
 
 ## Accessing the Dataset
 
-We provide alternatives to obtain the dataset:
+If you want to further understand and use this dataset, please apply by Request access.doc and send it to jinxinbesti@foxmail.com. We will tell you how to have an access to this dataset by email according to your application.
 
-### Baidu Netdisk
-- [Link](https://pan.baidu.com/s/1WhkUeBBz92BgM9od9_XYxA?pwd=gkhc)
-- Code: gkhc
+### Citation
+If you find our code/models useful, please consider citing our paper.
 
-### Google Drive 
-- Coming soon
+@InProceedings{
+    author    = {Xin Jin, Qianqian Qiao, Yi Lu, Huaye Wang, Shan Gao, Heng Huang, Guangdong Li},
+    title     = {Paintings and Drawings Aesthetics Assessment with Rich Attributes for Various Artistic Categories},
+    booktitle = { International Joint Conferences on Artificial Intelligence (IJCAI)},
+    year      = {2024},
+}
